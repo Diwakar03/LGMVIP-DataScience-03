@@ -1,5 +1,7 @@
 # LGMVIP-DataScience-03
 
+Public Link: https://app.powerbi.com/groups/me/reports/ae6f42ff-9193-432b-8f79-b7588603c5c5/ReportSection0b60b59429b2f4109a15?experience=power-bi
+
 The global terrorism dataset from 1970-2017 is a comprehensive collection of information on terrorist attacks worldwide during that time period. The data analysis provides insights into the characteristics of terrorism, including details about the attacks, their locations, gang names, weapons used, the perpetrators, casualties, and the outcomes.
 
 Here is a summary of the dataset:
